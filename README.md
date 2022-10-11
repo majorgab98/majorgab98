@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an engineering student in geology and self-teaching myself how to code.<br>I'm currently learing Javascript.<br>I am knowledgeable in HTML and CSS, and I have basic knowledge in Python.<br>I have worked as a project manager intern and different positions that were required team-working skills.<br>I am seeking to get an internship as a developer.
+I am an engineering student in geology and self-teaching myself how to code.<br>I'm currently learing Javascript.<br>I am knowledgeable in HTML,CSS and Javascript. I have basic knowledge in Python.<br>I have worked as a project manager intern and different positions that were required team-working skills.<br>I am seeking to get an internship as a developer.
 
 
 ## 🌐 Socials:
